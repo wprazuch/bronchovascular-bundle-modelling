@@ -15,5 +15,5 @@ For Linus/MacOS:
 For Windows users:
 `.venv/Scripts/activate`
 
-# 3. Usage
+## 3. Usage
 For generating a bronchovascular model object, run:
